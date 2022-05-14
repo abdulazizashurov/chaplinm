@@ -1,0 +1,7 @@
+__pycache__
+log/log_action.txt
+cmds.txt
+
+venv/*
+
+.venv/
